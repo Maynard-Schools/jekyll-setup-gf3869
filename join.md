@@ -4,4 +4,8 @@ title: About
 permalink: /join/
 ---
 
-Join
+# Join Us
+How to join our cause
+
+## Contacts
+No
