@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Hi
-email: no.com
+title: Welcome to the official Anti-Thot Defense Force website
+email: gf3869@s.maynard.k12.ma.us
 description: > # this means to ignore newlines until "baseurl:"
-  This is a description for a basic website
-baseurl: "/jekyll-simple" # the subpath of your site, e.g. /blog
-url: "http://hi.me" # the base hostname & protocol for your site
+  Our mission is to get rid of the thots.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://maynard-schools.github.io/jekyll-setup-gf3869/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
