@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Test Post
-category: jekyll 
+category: Tests 
 description: Just a test post
 ---
 
