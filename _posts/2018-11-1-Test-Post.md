@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Project 1
+title:  Project_1
 category: Projects 
-description: Project 1: Website Review
+description: Project_1: Website Review
 ---
 
 # Project 1: Website Review
