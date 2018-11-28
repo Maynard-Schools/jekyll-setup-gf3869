@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Test Post
-category: Tests 
-description: Just a test post
+title:  Project 1
+category: Projects 
+description: Project 1: Website Review
 ---
 
-# Test Post
+# Project 1: Website Review
 
 ## Still just a test
