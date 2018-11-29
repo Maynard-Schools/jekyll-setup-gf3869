@@ -2,7 +2,7 @@
 layout: post
 title:  Project
 category: Projects 
-description: Thing
+description: Website Review
 ---
 
 # Project 1: Website Review
